@@ -1,0 +1,467 @@
+
+[{
+    "context": "Dubai is one of the seven Emirates in UAE which is located on the Persian Gulf, towards the southeast of the Arabic Peninsula. UAE has seven emirates: Dubai, Abu Dhabi, Ajman, Fujairah, Sharjah, Ras al Khaimah, and Umm al Quwain. Dubai is the most popular city in UAE and has the highest population as well. Arabic is the main language spoken in Dubai, and the currency used is UAE dirham (AED). Dubai has a dry sub-tropical climate; the summers are really hot and humid, while the winters are pleasant. Dubai is a big city with many districts, including Jumeirah, Downtown Dubai, Deira, Mirdiff, Karama, Satwa, Dubai Marina, Bur Dubai, International City, and Jebel Ali. Dubai has gained popularity for its tourism in recent years. Each year, millions of visitors visit Dubai and contribute majorly to its tourism industry. Dubai is famous for its best infrastructure on the planet. It has numerous sky",
+    "questions":[
+    {"question": "What is the name of the popular water park in Dubai?",
+    "answer":{
+    "text": "Wild Wadi Water Park",
+    "answer_start": 162,
+    "answer_end": 181
+    }
+    },
+    {
+    "question": "What are some of the attractions in Wild Wadi Water Park?",
+    "answer": {"text": "Various water slides and attractions for all ages",
+    "answer_start": 183,
+    "answer_end": 227}
+    },
+    {
+        "question": "What are the other Emirates in UAE?",
+        "answer": {
+        "text": "Abu Dhabi, Ajman, Fujairah, Sharjah, Ras al Khaimah, and Umm al Quwain",
+        "answer_start": 51,
+        "answer_end": 101
+        }
+    },
+    {
+        "question": "What is the official currency of Dubai?",
+        "answer": {
+        "text": "UAE dirham (AED)",
+        "answer_start": 142,
+        "answer_end": 160
+        }
+    },
+    {
+        "question": "What is the climate like in Dubai?",
+        "answer": {
+        "text": "Dubai has a dry sub-tropical climate. The summers are hot and humid, while the winters are pleasant.",
+        "answer_start": 194,
+        "answer_end": 248
+        }
+    },
+    {
+        "question": "Which language is commonly spoken in Dubai?",
+        "answer": {
+        "text": "Arabic",
+        "answer_start": 293,
+        "answer_end": 299
+        }
+    },
+    {
+        "question": "What are some popular districts in Dubai?",
+        "answer": {
+        "text": "Jumeirah, Downtown Dubai, Deira, Mirdiff, Karama, Satwa, Dubai Marina, Bur Dubai, International City, and Jebel Ali",
+        "answer_start": 340,
+        "answer_end": 468
+        }
+    },
+    {
+        "question": "What is Dubai famous for?",
+        "answer": {
+        "text": "Dubai is famous for its tourism, infrastructure, and sky-rising buildings.",
+        "answer_start": 515,
+        "answer_end": 585
+        }
+    },
+    {
+        "question": "What is the tallest building in Dubai?",
+        "answer": {
+        "text": "Burj Khalifa",
+        "answer_start": 622,
+        "answer_end": 634
+        }
+    },
+    {
+        "question": "What are some popular activities in Dubai?",
+        "answer": {
+        "text": "Sightseeing, skydiving, hot air balloon ride, scuba diving, shopping, water sports, desert safari, skiing, and enjoying the vibrant nightlife.",
+        "answer_start": 673,
+        "answer_end": 787
+        }
+    },
+    {
+        "question": "Which are some famous beaches in Dubai?",
+        "answer": {
+        "text": "Kite beach, Russian Beach, Sunset beach, Jumeirah Beach Park, Mamzer Beach Park, Burj Beach, Ghantoot Beach, Jebel Ali Beach, JBR Beach, Black Palace Beach, Royal Island Beach Club, Ajman Beach, and Umm Suqeim Beach.",
+        "answer_start": 832,
+        "answer_end": 982
+        }
+    },
+    {
+        "question": "What is the Dubai Shopping Festival?",
+        "answer": {
+        "text": "It is an annual shopping festival held in Dubai during December and January, attracting visitors from around the world",
+        "answer_start": 1025,
+        "answer_end": 1146
+        }
+    },
+    {
+        "question": "What is the population of Dubai?",
+        "answer": {
+        "text": "Dubai has the highest population among all the emirates in UAE.",
+        "answer_start": 86,
+        "answer_end": 155
+        }
+        },
+        {
+        "question": "What is the main language spoken in Dubai?",
+        "answer": {
+        "text": "Arabic",
+        "answer_start": 236,
+        "answer_end": 242
+        }
+        },
+        {
+        "question": "What is the famous landmark in Dubai?",
+        "answer": {
+        "text": "Burj Khalifa",
+        "answer_start": 608,
+        "answer_end": 620
+        }
+        },
+        {
+        "question": "What are some popular tourist attractions in Dubai?",
+        "answer": {
+        "text": "Burj Khalifa, Dubai Mall, Palm Jumeirah, Dubai Marina, Dubai Creek, Jumeirah Mosque, and Atlantis, The Palm.",
+        "answer_start": 656,
+        "answer_end": 795
+        }
+        },
+        {
+        "question": "What is the legal drinking age in Dubai?",
+        "answer": {
+        "text": "The legal drinking age in Dubai is 21 years old.",
+        "answer_start": 1204,
+        "answer_end": 1250
+        }
+        },
+        {
+        "question": "What is the main industry in Dubai?",
+        "answer": {
+        "text": "The main industries in Dubai include tourism, real estate, finance, trade, and transportation.",
+        "answer_start": 1300,
+        "answer_end": 1389
+        }
+        },
+        {
+        "question": "What is the famous man-made island in Dubai?",
+        "answer": {
+        "text": "Palm Jumeirah",
+        "answer_start": 1412,
+        "answer_end": 1427
+        }
+        },
+        {
+        "question": "What is the name of the international airport in Dubai?",
+        "answer": {
+        "text": "Dubai International Airport",
+        "answer_start": 1467,
+        "answer_end": 1491
+        }
+        },
+        {
+        "question": "What is the local cuisine of Dubai?",
+        "answer": {
+        "text": "Local cuisine of Dubai includes dishes like Shawarma, Falafel, Hummus, Arabic coffee, and Al Harees.",
+        "answer_start": 1538,
+        "answer_end": 1633
+        }
+        },
+        {
+        "question": "What are some popular beaches in Dubai?",
+        "answer": {
+        "text": "Jumeirah Beach Park, Mamzer Beach Park, Burj Beach, Ghantoot Beach, Jebel Ali Beach, JBR Beach, Black Palace Beach, Royal Island Beach Club, Ajman Beach, and Umm Suqeim Beach.",
+        "answer_start": 1673,
+        "answer_end": 1823
+        }
+        },
+        {
+        "question": "What is the Dubai Shopping Festival?",
+        "answer": {
+        "text": "It is an annual shopping festival held in Dubai during December and January, attracting visitors from around the world",
+        "answer_start": 1866,
+        "answer_end": 1987
+        }
+        },
+        {
+        "question": "What are some traditional souks in Dubai?",
+        "answer": {
+        "text": "Gold Souk, Spice Souk, Perfume Souk, Textile Souk, and Fish Souk.",
+        "answer_start": 2023,
+        "answer_end": 2080
+        }
+        },
+        {
+        "question": "What are some luxury hotels in Dubai?",
+        "answer": {
+        "text": "Burj Al Arab, Atlantis, The Palm, Armani Hotel Dubai, Jumeirah Beach Hotel, and The Ritz-Carlton, Dubai.",
+        "answer_start": 2117,
+        "answer_end": 2216
+        }
+        },
+        {
+        "question": "What are some popular water parks in Dubai?",
+        "answer": {
+        "text": "Aquaventure Waterpark, Wild Wadi Water Park, Laguna Waterpark, and Legoland Water Park.",
+        "answer_start": 2254,
+        "answer_end": 2376
+        }
+        },
+        {
+        "question": "What is the tallest hotel in Dubai?",
+        "answer": {
+        "text": "JW Marriott Marquis Dubai is the tallest hotel in Dubai.",
+        "answer_start": 2413,
+        "answer_end": 2462
+        }
+        },
+        {
+            "question": "What is the currency used in Dubai?",
+            "answer": {
+            "text": "The currency used in Dubai is UAE dirham (AED).",
+            "answer_start": 238,
+            "answer_end": 266
+            }
+        },
+       {
+            "question": "What are some famous districts in Dubai?",
+            "answer": {
+            "text": "Some famous districts in Dubai include Jumeirah, Downtown Dubai, Deira, Mirdiff, Karama, Satwa, Dubai Marina, Bur Dubai, International City, and Jebel Ali.",
+            "answer_start": 378,
+            "answer_end": 622
+            }
+        },
+        {
+            "question": "What is the climate like in Dubai?",
+            "answer": {
+            "text": "Dubai has a dry sub-tropical climate, with extremely hot and humid summers and pleasant winters.",
+            "answer_start": 259,
+            "answer_end": 416
+            }
+        },
+        {
+            "question": "What is the main industry in Dubai?",
+            "answer": {
+            "text": "The main industries in Dubai include tourism, real estate, finance, trade, and transportation.",
+            "answer_start": 1300,
+            "answer_end": 1389
+            }
+        },
+        {
+            "question": "What are some famous landmarks in Dubai?",
+            "answer": {
+            "text": "Some famous landmarks in Dubai include Burj Khalifa, Burj Al Arab, Palm Jumeirah, Dubai Mall, and Dubai Creek.",
+            "answer_start": 487,
+            "answer_end": 683
+            }
+        },
+        {
+            "question": "What is the legal drinking age in Dubai?",
+            "answer": {
+            "text": "The legal drinking age in Dubai is 21 years old.",
+            "answer_start": 1204,
+            "answer_end": 1250
+            }
+        },
+        {
+            "question": "What is the famous man-made island in Dubai?",
+            "answer": {
+            "text": "Palm Jumeirah",
+            "answer_start": 1412,
+            "answer_end": 1427
+            }
+        },
+        {
+            "question": "What is the name of the international airport in Dubai?",
+            "answer": {
+            "text": "Dubai International Airport",
+            "answer_start": 1467,
+            "answer_end": 1491
+            }
+        },
+        {
+            "question": "What is the local cuisine of Dubai?",
+            "answer": {
+            "text": "The local cuisine of Dubai includes dishes like Shawarma, Falafel, Manousheh, Harees, and Al Machboos.",
+            "answer_start": 1923,
+            "answer_end": 2043
+            }
+        },
+        {
+            "question": "What is the name of the popular water park in Dubai?",
+            "answer": {
+            "text": "Wild Wadi Water Park",
+            "answer_start": 2764,
+            "answer_end": 2794
+            }
+        },
+        {
+            "question": "What are some of the attractions in Wild Wadi Water Park?",
+            "answer": {
+            "text": "Various water slides and attractions for all ages",
+            "answer_start": 2805,
+            "answer_end": 2849
+            }
+        },
+        {
+                "question": "What is the tallest building in Dubai?",
+                "answer": {
+                "text": "The tallest building in Dubai is Burj Khalifa.",
+                "answer_start": 753,
+                "answer_end": 780
+                }
+        },
+        {
+                "question": "What is the largest shopping mall in Dubai?",
+                "answer": {
+                "text": "The largest shopping mall in Dubai is Dubai Mall.",
+                "answer_start": 779,
+                "answer_end": 810
+                }
+        },
+        {
+                "question": "What is the famous luxury hotel in Dubai shaped like a sail?",
+                "answer": {
+                "text": "The famous luxury hotel in Dubai shaped like a sail is Burj Al Arab.",
+                "answer_start": 811,
+                "answer_end": 853
+                }
+        },
+        {
+                "question": "What is the name of the artificial canal city in Dubai?",
+                "answer": {
+                "text": "The name of the artificial canal city in Dubai is Dubai Marina.",
+                "answer_start": 909,
+                "answer_end": 951
+                }
+        },
+        {
+                "question": "What is the famous gold market in Dubai?",
+                "answer": {
+                "text": "The famous gold market in Dubai is called the Gold Souk.",
+                "answer_start": 1006,
+                "answer_end": 1044
+                }
+        },
+        {
+                "question": "What is the name of the popular indoor ski resort in Dubai?",
+                "answer": {
+                "text": "The name of the popular indoor ski resort in Dubai is Ski Dubai.",
+                "answer_start": 1102,
+                "answer_end": 1144
+                }
+        },
+        {
+                "question": "What is the famous creek in Dubai?",
+                "answer": {
+                "text": "The famous creek in Dubai is Dubai Creek.",
+                "answer_start": 1192,
+                "answer_end": 1220
+                }
+        },
+        {
+                "question": "What is the name of the famous desert safari in Dubai?",
+                "answer": {
+                "text": "The name of the famous desert safari in Dubai is Arabian Desert Safari.",
+                "answer_start": 1276,
+                "answer_end": 1332
+                }
+        }
+    ]
+},  
+    {
+
+        "context": "Best Places in Dubai: Our Top Suggestions for the Interested Seasoned Traveler\n\nForget the usual perception about Dubai as hot, desert-like, and boring. The new Dubai is a tourist haven ready to serve all kinds of travelers and tourists with different needs and preferences. In fact, in this city called one of the emirates, it was tallied as the 7th most visited city globally. So, is it time to join the fun and adventure? Here are the best places in Dubai that are worth your visit and time:\n\n1. Dubai Autodrome: This is a motor sports complex that features a racing and sporting track.\n\n2. Dubai Fountains: Water fountains that shoot up to as high as 500 feet and are complemented by music.\n\n3. Dubai Desert Conservation Reserve: A national and protective park in Dubai.\n\n4. Sheikh Mohammed Centre for Cultural Understanding (SMCCU): Learn the local culture and customs of the city at this complex.\n\n5. Dolphin Bay: Discover a thriving dolphin habitat in Dubai.\n\n6. Burj Khalifa: This is a must-see in Dubai, considered the tallest building in the world right now.\n\n7. The Tower of Arabs: Another tall building in Dubai worth a visit.\n\n8. Skydive Dubai: This is best for adventure seekers.\n\n9. Dubai Beaches: The beaches that line up Jumeirah Road are worth visiting.\n\n10. The World Islands: Located 4 km off the coast of Dubai, this is a representation of the world map in the form of small islands.\n\n...",
+        "questions":[
+        {
+        "question": "What is the tallest building in Dubai?",
+        "answer": {
+        "text": "Burj Khalifa is the tallest building in Dubai.",
+        "answer_start": 775,
+        "answer_end": 812
+        }
+        },
+        {
+        "question": "Which place offers pools and rapids adventures in Dubai?",
+        "answer": {
+        "text": "Aquaventure Waterpark offers pools and rapids adventures in Dubai.",
+        "answer_start": 1722,
+        "answer_end": 1780
+        }
+        },
+        {
+        "question": "Where can you find the Dubai Creek?",
+        "answer": {
+        "text": "Dubai Creek can be experienced through boat tours along the creek.",
+        "answer_start": 1790,
+        "answer_end": 1845
+        }
+        },
+        {
+        "question": "Which hotel in Dubai is shaped like a sail ship?",
+        "answer": {
+        "text": "Burj Al Arab is a hotel in Dubai shaped like a sail ship.",
+        "answer_start": 1930,
+        "answer_end": 1981
+        }
+        },
+        {
+        "question": "What is the name of the famous gold market in Dubai?",
+        "answer": {
+        "text": "The famous gold market in Dubai is called the Gold Souk.",
+        "answer_start": 2253,
+        "answer_end": 2291
+        }
+        },
+        {
+        "question": "Which place offers skiing adventures in Dubai?",
+        "answer": {
+        "text": "Mall of the Emirates offers skiing adventures in Dubai.",
+        "answer_start": 2617,
+        "answer_end": 2667
+        }
+        },
+        {
+        "question": "Which place is known for its authentic Italian and Sicilian food in Dubai?",
+        "answer": {
+        "text": "Focaccia is known for its authentic Italian and Sicilian food in Dubai.",
+        "answer_start": 2826,
+        "answer_end": 2887
+        }
+        },
+        {
+        "question": "Which place offers a view of the ocean while dining?",
+        "answer": {
+        "text": "Ossiano offers food with a view of the ocean in Dubai.",
+        "answer_start": 2970,
+        "answer_end": 3018
+        }
+        },
+        {
+        "question": "Which place offers a visit and walk tours to some of the oldest buildings in Dubai?",
+        "answer": {
+        "text": "Bastakia Quarter offers a visit and walk tours to some of the oldest buildings in Dubai.",
+        "answer_start": 3347,
+        "answer_end": 3425
+        }
+        },
+        {
+        "question": "Where can you shop for gold in Dubai?",
+        "answer": {
+        "text": "You can shop for gold at the Gold Souk in Dubai.",
+        "answer_start": 3995,
+        "answer_end": 4036
+        }
+        }
+    ]
+}
+]  
+           
+
+  
+        
+        
+        
+        
+        
+        

@@ -1,0 +1,6 @@
+!pip -qqq install gdcm
+!pip -qqq install pydicom
+!pip -qqq install faiss-gpu
+!pip install pinecone-client -q
+!pip install transformers
+!pip install langchain
